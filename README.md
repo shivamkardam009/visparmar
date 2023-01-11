@@ -1,3 +1,4 @@
+![logo](https://github.com/visparmar/visparmar/blob/main/giphy.gif)
 <h1 align="center">Hi 👋, I'm Vikas Parmar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47q27kj8d9m26txh3scf7uh4rfxs8siz50g0lpehiu&rid=giphy.gif&ct=g">
